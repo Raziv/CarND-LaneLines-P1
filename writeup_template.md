@@ -10,13 +10,13 @@ The goals / steps of this project are the following:
 
 [image1]: ./test_images_output/solidWhiteRightMarked.jpg
 [image2]: ./test_images_output/solidYellowCurveMarked.jpg
-[image3]: ./test_images_output/solidYellowCurveMarked2.jpg
+[image3]: ./test_images_output/solidYellowCurve2Marked.jpg
 [image4]: ./test_images_output/solidWhiteCurveMarked.jpg
 [image5]: ./test_images_output/solidYellowLeftMarked.jpg
 [image6]: ./test_images_output/whiteCarLaneSwitchMarked.jpg
 [image7]: ./test_images_output/challenge1Marked.jpg
 
----
+--
 
 ### Reflection
 
